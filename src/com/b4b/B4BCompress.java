@@ -2,6 +2,7 @@ package com.b4b;
 
 import java.util.LinkedList;
 
+// Exercise #2
 public class B4BCompress
 {
 	public static void main(String[] args)
